@@ -1,0 +1,18 @@
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\GamePacmanUnitTests\bin\Debug\GamePacmanUnitTests.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\GamePacmanUnitTests\bin\Debug\GamePacmanUnitTests.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\GamePacmanUnitTests\bin\Debug\Pacman.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\GamePacmanUnitTests\bin\Debug\Pacman.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\GamePacmanUnitTests\obj\Debug\GamePacmanUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\GamePacmanUnitTests\obj\Debug\GamePacmanUnitTests.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\GamePacmanUnitTests\obj\Debug\GamePacmanUnitTests.pdb
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\bin\Debug\GamePacmanUnitTests.dll
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\bin\Debug\GamePacmanUnitTests.pdb
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\bin\Debug\Pacman.exe
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\bin\Debug\Pacman.pdb
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\bin\Debug\Pacman.exe.config
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\obj\Debug\GamePacmanUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\obj\Debug\GamePacmanUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\obj\Debug\GamePacmanUnitTests.dll
+C:\Users\ItSecurity\Desktop\Pacman\GamePacmanUnitTests\obj\Debug\GamePacmanUnitTests.pdb

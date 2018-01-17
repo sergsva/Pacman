@@ -1,0 +1,12 @@
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\Pacman\obj\Debug\Pacman.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Pacman\Pacman\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\ItSecurity\Desktop\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\ItSecurity\Desktop\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\ItSecurity\Desktop\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\ItSecurity\Desktop\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\ItSecurity\Desktop\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\ItSecurity\Desktop\Pacman\Pacman\obj\Debug\Pacman.pdb
